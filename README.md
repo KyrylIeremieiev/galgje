@@ -15,9 +15,10 @@
 
 
 
---llen
+ballen
 
 is de woord ballen?
+ja
 
 e r l n
 
