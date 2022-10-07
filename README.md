@@ -17,6 +17,8 @@
 
 --llen
 
+is de woord ballen?
+
 e r l n
 
 |
